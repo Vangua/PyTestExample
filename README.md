@@ -1,1 +1,1 @@
-PYTHONPATH=. pytest -s tests/test_some_app.py
+PYTHONPATH=. pytest -s tests
